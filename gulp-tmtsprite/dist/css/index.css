@@ -1,0 +1,9 @@
+.icon-test {
+  background-image: url("../sprite/index.png");  background-position: -4px -4px;;
+}
+
+.icon-test2 {
+  background-image: url("../sprite/index.png");  background-position: -40px -4px;;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),only screen and (min--moz-device-pixel-ratio: 2),only screen and (min-resolution: 240dpi) {}
